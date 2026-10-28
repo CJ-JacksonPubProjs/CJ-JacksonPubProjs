@@ -7,7 +7,7 @@ This was a TKinter Application I made in a class to learn python and practice us
 Repo link:
 ### Rust Recipe Library
 This was a Rust gui application I made with the Iced crate to save, create, track, and filter recipes in a database. It taught me a lot about rust syntax and database sorting.  
-Repo link:
+Repo link: https://github.com/CJ-JacksonPubProjs/Rust-Recipe-App
 <!--
 **CJ-JacksonPubProjs/CJ-JacksonPubProjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
