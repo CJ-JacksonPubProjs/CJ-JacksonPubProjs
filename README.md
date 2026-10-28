@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there 🌱
+My name is CJ Jackson, I'm a high schooler interested in studying computer science and/or software development. I'm fluent in Java, C#, and Python as well as being able to use rust.
 
+## Featured Projects⚡
+### Canvas Assignment Tracker
+This was a TKinter Application I made in a class to learn python and practice using web apis. It uses the Canvas LMS API to quickly track a student's grades and assignments as an alternative to the Canvas website which can be slow.  
+Repo link:
+### Rust Recipe Library
+This was a Rust gui application I made with the Iced crate to save, create, track, and filter recipes in a database. It taught me a lot about rust syntax and database sorting.  
+Repo link:
 <!--
 **CJ-JacksonPubProjs/CJ-JacksonPubProjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
